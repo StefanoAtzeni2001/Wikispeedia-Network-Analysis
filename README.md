@@ -1,5 +1,6 @@
 ## Wikispeedia Network Analysis
 (July 2025)
+
 This is a university project for the **Network Science and Data Visualisation** course at the **University of Turin**.  
 
 ## Wikispeedia Dataset
